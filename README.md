@@ -1,2 +1,1 @@
-UNCHAIN ASTAR SocialFi
-Backend
+UNCHAIN ASTAR SocialFi contract
